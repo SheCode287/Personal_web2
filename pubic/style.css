@@ -62,12 +62,17 @@
  }
 
  .prof {
-    border-radius: 50%;
+    border-radius:50%;
     width: 290px; 
-    height: 290px; 
-    border:1px solid #523189;
-    background-color: #888FC4;
+    height: 590px; 
+    margin-top: 80px;
+   
 
+}
+
+.prof >img{
+    width:100% ;
+   
 }
 
 
